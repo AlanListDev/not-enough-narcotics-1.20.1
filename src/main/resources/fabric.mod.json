@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "nen",
+	"version": "${version}",
+	"name": "Not Enough Narcotics",
+	"description": "This is a minecraft mod that adds drugs and the processes to get them.",
+	"authors": [
+		"FlareShock!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/nen/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.flareshock.nen.NotEnoughNarcotics"
+		],
+		"client": [
+			"net.flareshock.nen.NotEnoughNarcoticsClient"
+		],
+		"fabric-datagen": [
+			"net.flareshock.nen.NotEnoughNarcoticsDataGenerator"
+		]
+	},
+	"mixins": [
+		"nen.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
