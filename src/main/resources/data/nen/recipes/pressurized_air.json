@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_nugget"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "A": {
+      "item": "nen:air_bottle"
+    }
+  },
+  "pattern": [
+    " # ",
+    "IPI",
+    "IAI"
+  ],
+  "result": {
+    "item": "nen:pressurized_air",
+    "count": 1
+  },
+  "show_notification": true
+}

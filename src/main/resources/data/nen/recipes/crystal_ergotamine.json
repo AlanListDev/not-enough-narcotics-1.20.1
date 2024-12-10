@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 300,
+  "experience": 7.0,
+  "group": "crystal_ergotamine",
+  "ingredient": {
+    "item": "nen:ergot"
+  },
+  "result": "nen:crystal_ergotamine"
+}

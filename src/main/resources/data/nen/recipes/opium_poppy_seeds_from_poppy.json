@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "items",
+  "ingredients": [
+    {
+      "item": "minecraft:poppy"
+    }
+  ],
+  "result": {
+    "item": "nen:opium_poppy_seeds",
+    "count": 1
+  }
+}

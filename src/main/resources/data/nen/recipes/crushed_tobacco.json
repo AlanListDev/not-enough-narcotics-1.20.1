@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "items",
+  "ingredients": [
+    {
+      "item": "nen:dried_tobacco_leaf"
+    }
+  ],
+  "result": {
+    "item": "nen:crushed_tobacco",
+    "count": 4
+  }
+}

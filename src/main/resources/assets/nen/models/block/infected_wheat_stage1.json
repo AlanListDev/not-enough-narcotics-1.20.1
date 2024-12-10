@@ -1,0 +1,6 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "nen:block/infected_wheat_stage1"
+  }
+}

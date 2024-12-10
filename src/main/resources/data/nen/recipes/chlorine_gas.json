@@ -1,0 +1,17 @@
+{
+  "type": "nen:compounder",
+  "ingredients": [
+    {
+      "item": "nen:lava_bottle"
+    },
+    {
+      "item": "nen:oxygen_gas"
+    },
+    {
+      "item": "nen:reaction_catalyst"
+    }
+  ],
+  "output": {
+    "item": "nen:chlorine_gas"
+  }
+}

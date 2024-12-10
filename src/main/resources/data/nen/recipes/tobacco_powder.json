@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "nen:crushed_tobacco"
+    }
+  ],
+  "result": {
+    "item": "nen:tobacco_powder",
+    "count": 1
+  }
+}

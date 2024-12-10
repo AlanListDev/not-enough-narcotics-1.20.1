@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:obsidian"
+    },
+    "G": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "pattern": [
+    " G ",
+    "G#G",
+    " G "
+  ],
+  "result": {
+    "item": "nen:obsidian_bottle",
+    "count": 4
+  },
+  "show_notification": true
+}

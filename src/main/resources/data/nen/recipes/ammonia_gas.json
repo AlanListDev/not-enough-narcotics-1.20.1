@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": {
+      "item": "minecraft:ice"
+    },
+    "L": {
+      "item": "nen:lava_bottle"
+    }
+  },
+  "pattern": [
+    "III",
+    "ILI",
+    "III"
+  ],
+  "result": {
+    "item": "nen:ammonia_gas",
+    "count": 1
+  }
+}

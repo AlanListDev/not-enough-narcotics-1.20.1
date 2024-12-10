@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:beetroot"
+    },
+    "G": {
+      "item": "minecraft:glass_bottle"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "pattern": [
+    "S#",
+    "GG"
+  ],
+  "result": {
+    "item": "nen:liquid_ethanol",
+    "count": 2
+  },
+  "show_notification": true
+}

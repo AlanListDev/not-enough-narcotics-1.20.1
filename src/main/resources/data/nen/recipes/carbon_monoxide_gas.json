@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 5.0,
+  "group": "carbon_monoxide_gas",
+  "ingredient": {
+    "item": "nen:carbon_dioxide_gas"
+  },
+  "result": "nen:carbon_monoxide_gas"
+}

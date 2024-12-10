@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "CII",
+    "C I",
+    "CCI"
+  ],
+  "result": {
+    "item": "nen:reaction_catalyst",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 150,
+  "experience": 1.5,
+  "group": "dried_indica_cannabis_bud",
+  "ingredient": {
+    "item": "nen:indica_cannabis_bud"
+  },
+  "result": "nen:dried_indica_cannabis_bud"
+}

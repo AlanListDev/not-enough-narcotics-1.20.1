@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "C": {
+      "item": "nen:crushed_tobacco"
+    },
+    "F": {
+      "item": "nen:filter"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "CCF",
+    "PPP"
+  ],
+  "result": {
+    "item": "nen:cigarette",
+    "count": 2
+  }
+}

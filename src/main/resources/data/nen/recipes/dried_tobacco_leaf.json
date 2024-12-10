@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "group": "dried_tobacco_leaf",
+  "ingredient": {
+    "item": "nen:tobacco_leaf"
+  },
+  "result": "nen:dried_tobacco_leaf"
+}

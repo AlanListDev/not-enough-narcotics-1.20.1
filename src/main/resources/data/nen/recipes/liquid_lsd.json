@@ -1,0 +1,17 @@
+{
+  "type": "nen:compounder",
+  "ingredients": [
+    {
+      "item": "nen:liquid_diethylamine"
+    },
+    {
+      "item": "nen:activated_lysergic_acid"
+    },
+    {
+      "item": "nen:reaction_catalyst"
+    }
+  ],
+  "output": {
+    "item": "nen:liquid_lsd"
+  }
+}

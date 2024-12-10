@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "items",
+  "ingredients": [
+    {
+      "item": "nen:opium_poppy_seed_pod"
+    }
+  ],
+  "result": {
+    "item": "nen:opium_poppy_seeds",
+    "count": 4
+  }
+}
